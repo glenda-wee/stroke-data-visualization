@@ -1,2 +1,6 @@
-streamlit 
-pandas 
+numpy
+pandas
+matplotlib
+sklearn
+seaborn
+streamlit == 0.60.0
