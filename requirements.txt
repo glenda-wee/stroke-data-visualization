@@ -1,2 +1,5 @@
-import streamlit as st
-import pandas as pd 
+streamlit
+numpy
+https://download.pytorch.org/whl/cpu/torch-1.1.0-cp36-cp36m-linux_x86_64.whl
+fastai
+pandas
